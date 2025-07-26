@@ -109,8 +109,3 @@ A curated collection of essential Linux commands every beginner, DevOps engineer
 
 ---
 
-## 🙌 Author & Credits
-
-Cheatsheet created for quick access to must-know Linux commands.  
-Follow **Shivam Agnihotri** on [LinkedIn](https://www.linkedin.com/in/shivamagnihotri) for real-world DevOps content.
-
