@@ -108,4 +108,3 @@ A curated collection of essential Linux commands every beginner, DevOps engineer
 | `Ctrl + R` | Search recent command |
 
 ---
-
